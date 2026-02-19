@@ -1,0 +1,5 @@
+/.vscode
+/PG LOCAL.session.sql
+/csv_files
+/postgres.session.sql
+/sql
